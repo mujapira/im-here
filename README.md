@@ -11,8 +11,8 @@
 </span>
 
 <h3 align="center">
-<img src="https://github.com/mujapira/im-here/assets/89225210/b0b507c0-3d90-4bc7-9798-641243c55031" width="300px">
-<img src="https://github.com/mujapira/im-here/assets/89225210/e7a4d287-33eb-4bb7-acff-5a26355e2ecc" width="300px">
-<img src="https://github.com/mujapira/im-here/assets/89225210/d4540e16-69d6-44cf-b76a-dcf8eae2765d" width="300px">
+<img src="https://github.com/mujapira/im-here/assets/89225210/b0b507c0-3d90-4bc7-9798-641243c55031" width="250px">
+<img src="https://github.com/mujapira/im-here/assets/89225210/e7a4d287-33eb-4bb7-acff-5a26355e2ecc" width="250px">
+<img src="https://github.com/mujapira/im-here/assets/89225210/d4540e16-69d6-44cf-b76a-dcf8eae2765d" width="250px">
 </h3>
 
